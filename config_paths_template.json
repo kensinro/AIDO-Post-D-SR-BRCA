@@ -1,0 +1,10 @@
+{
+  "data_root": "D:/AIDO-Data",
+  "temp_root": "D:/AIDO-Temp",
+  "brca_expression": "D:/AIDO-Data/UCSC_XENA/Breast Cancer (BRCA)/GE.tsv",
+  "brca_phenotype": "D:/AIDO-Data/UCSC_XENA/Breast Cancer (BRCA)/Phenotype.tsv",
+  "brca_clinical_matrix": "D:/AIDO-Data/UCSC_XENA/Breast Cancer (BRCA)/TCGA.BRCA.sampleMap_BRCA_clinicalMatrix",
+  "go_bp_gmt": "D:/AIDO-Data/GSEA/c5.go.bp.v2026.1.Hs.symbols.gmt",
+  "hallmark_gmt": "D:/AIDO-Data/GSEA/h.all.v2026.1.Hs.symbols.gmt",
+  "output_root": "D:/AIDO-Temp"
+}
